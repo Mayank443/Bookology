@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚Bookology
 
  An elegant and user-friendly Book Library App built with Flutter that allows users to browse, view, and download books using the Gutendex API..
@@ -18,7 +17,7 @@
 ### Framework:
   Flutter: A versatile UI toolkit for building natively compiled apps across platforms.
 ### Backend API:
-  Gutendex API: A RESTful API for accessing books from the Project Gutenberg collection.
+ Gutendex API: A RESTful API for accessing books from the Project Gutenberg collection.
 
 ## 👤 Author
  Developed by Mayank Mandsorkar
