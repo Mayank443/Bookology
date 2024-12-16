@@ -3,7 +3,6 @@
 An elegant and user-friendly Book Library App built with Flutter that allows users to browse, view, and download books using the Gutendex API.
 
 Features
-
 🔍 Search Books: Find books using advanced search filters.
 
 📖 View Books : Preview books  in HTML format.
