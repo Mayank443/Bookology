@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241416359724",
+    "project_id": "bookology-e499a",
+    "storage_bucket": "bookology-e499a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241416359724:android:8f58f2346e9fe76c146689",
+        "android_client_info": {
+          "package_name": "com.example.bookology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpD04gosRH9dD1vCXlOUwZiZYQylCIIgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
