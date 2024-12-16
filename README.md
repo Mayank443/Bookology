@@ -5,9 +5,13 @@
 
 ## ⚙️Features
   🔍 Search Books: Find books using advanced search filters.
+
   📖 View Books : Preview books in HTML format.
+
   📥 Download books : Download books in the desired format (EPUB, MOBI, etc.).
+
   🎨 Modern UI: Intuitive, responsive, and visually appealing design.
+  
   🌍 Open Source: Free to use and contribute to.
 
 ## 🛠️ Technology Stack
